@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#In this shell script is used to send the mail to us about our server health report
+ 
 LEAD="saikumarbalaga03@gmail.com"
 OUTPUT_FILE="server_health_check.txt"
 
